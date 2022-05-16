@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7yHWgVAMjYFBJ/zU4ZfiMiF/oAiBPKwcSROplerIVdTsKhPVO5mPI0D0wDAhXwI1N3CwqmLRCSOY9oemFbCgA==",
+  "success": true,
+  "projectFilePath": "D:\\VS-code\\f#\\plzoofs-master\\microc\\interpc.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sixia\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\sixia\\.nuget\\packages\\fslexyacc\\10.2.0\\fslexyacc.10.2.0.nupkg.sha512",
+    "C:\\Users\\sixia\\.nuget\\packages\\fslexyacc.runtime\\10.2.0\\fslexyacc.runtime.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
